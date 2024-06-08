@@ -12,7 +12,7 @@ require([
       appId: "rsLkOWeKLsKiXnrf", // Replace with your Client ID
       popup: false,
       portalUrl: "https://ucsdonline.maps.arcgis.com",
-      redirectUri: "https://raw.githubusercontent.com/Jackyijun/ConstructionMapTesting/main/index.html" // Replace with your redirect URI
+      redirectUri: "https://jackyijun.github.io/ConstructionMapTesting/index.html" // Replace with your redirect URI
     });
   
     IdentityManager.registerOAuthInfos([info]);
